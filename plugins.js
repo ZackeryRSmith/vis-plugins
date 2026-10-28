@@ -317,6 +317,12 @@ const plugins = [
 		"desc": "Korean IME for vis editor"
 	},
 	{
+		"name": "viscosity",
+		"repo": "https://codeberg.org/iambird/viscosity",
+		"desc": "An oil-style file tree for the martanne/vis editor",
+		"tags": ["qol"]
+	},
+	{
 		"name": "treeview",
 		"repo": "https://github.com/stalker57241/treeview",
 		"desc": "Tree view of files for vis editor",
@@ -327,11 +333,5 @@ const plugins = [
 		"repo": "https://github.com/stalker57241/tabview",
 		"desc": "Tab view allows to store files in tabs at background",
 		"tags": ["qol", "quality of life"]
-	},
-	{
-		"name": "viscosity",
-		"repo": "https://codeberg.org/iambird/viscosity",
-		"desc": "An oil-style file tree for the martanne/vis editor",
-		"tags": ["qol"]
 	}
 ]
